@@ -1,7 +1,1 @@
-Add some text to DONE.txt.
-9. Check the directory status.
-10. Stage WORKING.txt and DONE.txt.
-11. Unstage DONE.txt.
-12. Commit the project.
-13. Check the directory status.
-After completing this exercise, close the book and
+ert33554dfsdf
