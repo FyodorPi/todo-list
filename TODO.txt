@@ -1,1 +1,1 @@
-Ensure that you add the modified files to the staging area before committing, or they are not included in the snapshot. Any modified files not added to the staging area remain in the working directory until you decide to discard them or include them in a future commit.
+ to the staging area before committing, or they are not included in the snapshot. Any modified files not added to the staging area remain in the working directory until you decide to discard them or include them in a future commit.
